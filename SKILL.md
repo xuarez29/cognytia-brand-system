@@ -23,6 +23,7 @@ Para guía detallada por formato o paleta visual completa, lee:
 - `references/positioning.md` — Posicionamiento estratégico, diferenciadores y elevator pitches
 - `references/email.md` — Voz y estructura para correos electrónicos
 - `references/logo.md` — Versiones del logo, usos permitidos y restricciones
+- `references/infographics.md` — Infografías y gráficas para publicaciones: tamaños, colores, tipos de pieza y prompts de IA
 
 ---
 
@@ -99,5 +100,6 @@ El skill aplica los principios de arriba universalmente. Para el formato especí
 | Identidad visual / diseño | `references/visual.md` |
 | Logo — versiones y usos | `references/logo.md` |
 | Posicionamiento / diferenciadores | `references/positioning.md` |
+| Infografías y gráficas | `references/infographics.md` |
 
 Lee solo la sección relevante, no todo el archivo.
