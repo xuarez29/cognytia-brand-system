@@ -103,3 +103,13 @@ El skill aplica los principios de arriba universalmente. Para el formato especí
 | Infografías y gráficas | `references/infographics.md` |
 
 Lee solo la sección relevante, no todo el archivo.
+
+---
+
+## Skills companion
+
+Para tareas visuales específicas existe un skill dedicado:
+
+| Skill | Archivo | Cuándo usar |
+|---|---|---|
+| `cognytia-infographics` | `skills/cognytia-infographics.skill` | Generar infografías, gráficas, prompts para IA visual, piezas para publicaciones |
