@@ -20,6 +20,9 @@ profesional y auténtico en cualquier formato.
 Para guía detallada por formato o paleta visual completa, lee:
 - `references/voice.md` — Voz, tono y estructuras de contenido
 - `references/visual.md` — Paleta, tipografía y principios visuales
+- `references/positioning.md` — Posicionamiento estratégico, diferenciadores y elevator pitches
+- `references/email.md` — Voz y estructura para correos electrónicos
+- `references/logo.md` — Versiones del logo, usos permitidos y restricciones
 
 ---
 
@@ -92,6 +95,9 @@ El skill aplica los principios de arriba universalmente. Para el formato especí
 | LinkedIn | `references/voice.md` → sección "LinkedIn" |
 | Presentaciones PPTX | `references/voice.md` → sección "Presentaciones" |
 | Propuestas de venta | `references/voice.md` → sección "Propuestas" |
+| Email (seguimiento, propuesta, cierre) | `references/email.md` |
 | Identidad visual / diseño | `references/visual.md` |
+| Logo — versiones y usos | `references/logo.md` |
+| Posicionamiento / diferenciadores | `references/positioning.md` |
 
 Lee solo la sección relevante, no todo el archivo.
